@@ -1,5 +1,7 @@
 #tail
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/node-tail.svg)](https://www.guardrails.io)
+
 To install:
 
 ```bash
